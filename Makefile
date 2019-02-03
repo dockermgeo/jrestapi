@@ -1,5 +1,5 @@
 
-IMAGE=dockermgeo/japi
+IMAGE=dockermgeo/jrestapi
 
 
 java.build:
